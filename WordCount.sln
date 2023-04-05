@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WordCount", "WordCount\WordCount.fsproj", "{F820179A-1A1D-4628-AA9F-2FEA03798A19}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WordCount.Tests", "WordCount.Tests\wordCount.Tests.fsproj", "{E9E6AD35-BE3E-4EBF-89F9-917F5E02A50C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F820179A-1A1D-4628-AA9F-2FEA03798A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F820179A-1A1D-4628-AA9F-2FEA03798A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F820179A-1A1D-4628-AA9F-2FEA03798A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F820179A-1A1D-4628-AA9F-2FEA03798A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E6AD35-BE3E-4EBF-89F9-917F5E02A50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E6AD35-BE3E-4EBF-89F9-917F5E02A50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E6AD35-BE3E-4EBF-89F9-917F5E02A50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E6AD35-BE3E-4EBF-89F9-917F5E02A50C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
